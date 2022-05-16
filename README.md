@@ -10,6 +10,6 @@ Udało nam się zająć miejsce w TOP 5% najlepszych modeli na ponad 1000 uczest
 # Finałowy przejazd naszego najlepszego modelu:
 https://user-images.githubusercontent.com/83274413/167380754-872d357a-d9b5-4fce-8602-9703edaeed94.mp4
 
-*Gif podsumowujący wyniki naszego modelu:* 
+# *Gif podsumowujący wyniki naszego modelu:* 
 <br>
 ![alt text](https://i.kym-cdn.com/entries/icons/facebook/000/028/987/lightningspeed.jpg)
